@@ -1,0 +1,201 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.museum-popup strong {
+    color: #302662;
+}
+
+.sidebar {
+    position: fixed;
+
+    top: 0;
+    left: 0;
+
+    width: 320px;
+    height: 100vh;
+
+    overflow-y: auto;
+
+    background: #f5f5f5;
+
+    z-index: 1000;
+
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
+}
+
+
+.sidebar-header {
+    position: sticky;
+    top: 0;
+
+    background: #f5f5f5;
+
+    padding-bottom: 15px;
+    padding-left:10px;
+    padding-right:10px;
+
+    z-index: 10;
+}
+
+
+.sidebar h2 {
+    margin-top: 0;
+    padding-top:20px;
+    color: #302662;
+
+}
+
+
+#search,
+#tagFilter {
+
+    width: 100%;
+
+    padding: 10px;
+
+    margin-bottom: 10px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 6px;
+
+    font-size: 14px;
+}
+
+
+#resultCount {
+    font-size: 13px;
+
+    color: #666;
+
+    margin-bottom: 10px;
+
+    padding-left:10px;
+    padding-right:10px;
+
+}
+
+.museum-card {
+
+    background: white;
+
+    padding: 15px;
+
+    margin-bottom: 12px;
+
+    margin-left:10px;
+    margin-right:10px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    box-shadow:
+        0 1px 4px rgba(0, 0, 0, 0.15);
+
+    transition:
+        transform 0.15s,
+        box-shadow 0.15s;
+}
+
+
+.museum-card:hover {
+
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.museum-card:hover h3 {
+    color: #E57967;
+}
+
+
+.museum-card h3 {
+
+    margin:
+        0
+        0
+        8px
+        0;
+
+    font-size: 16px;
+    color: #302662;
+}
+
+
+.museum-card p {
+    margin: 5px 0;
+}
+
+
+.province {
+    font-weight: bold;
+}
+
+
+.address {
+
+    font-size: 13px;
+
+    color: #555;
+}
+
+.tags {
+    margin-top: 10px;
+}
+
+
+.tag,
+.popup-tag {
+
+    display: inline-block;
+
+    padding:
+        3px
+        7px;
+
+    margin:
+        2px
+        2px
+        2px
+        0;
+
+    background: #D3DDDA;
+
+    color: #302662;
+
+    border-radius: 10px;
+
+    font-size: 11px;
+}
+
+#map {
+
+    position: fixed;
+
+    top: 0;
+    bottom: 0;
+
+    left: 320px;
+    right: 0;
+}
+
+.no-results {
+
+    padding: 20px;
+
+    text-align: center;
+
+    color: #777;
+}
+
