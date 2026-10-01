@@ -26,7 +26,7 @@ sidebar.innerHTML = `
         >
 
         <select id="tagFilter">
-            <option value="">Alle tags</option>
+            <option value="">Alle thema's</option>
         </select>
     </div>
 
