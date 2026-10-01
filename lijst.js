@@ -54,7 +54,9 @@ fetch("musea.geojson")
 
         createTagFilter();
         createMarkers();
-
+        map.invalidateSize();
+            
+        loadFiltersFromURL();
         applyFilters();
 
         // Automatically zoom so all museums are visible
@@ -76,6 +78,13 @@ fetch("musea.geojson")
             <p>Kon de museumgegevens niet laden.</p>
         `;
     });
+
+function loadFiltersFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    const tag = params.get("tag");
+    if (tag) {
+    tagFilter.value = tag;
+}}
 
 function createMarkers() {
 
