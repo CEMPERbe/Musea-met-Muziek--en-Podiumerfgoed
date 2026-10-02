@@ -13,6 +13,10 @@ body {
     color: #302662;
 }
 
+.museum-popup a {
+    color: #E57967;
+}
+
 .sidebar {
     position: fixed;
 
