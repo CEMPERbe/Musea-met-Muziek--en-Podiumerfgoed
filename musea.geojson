@@ -16,7 +16,8 @@
         "name":"Muziekinstrumentenmuseum (MIM)",
         "provincie": "Brussel",
         "description": "Het Muziekinstrumentenmuseum (MIM) beheert de grootste collectie muziekinstrumenten in België. De museumcollectie bestaat uit 8000 items waarvan er 1200 tentoongesteld zijn. Ze bevat niet enkel ​‘klassieke’ muziekinstrumenten, maar ook instrumenten uit de volks- en wereldmuziek. Aan de basis van de collectie liggen onder meer de verzamelingen van musicoloog François-Joseph Fétis en de Indische radjah Sourindro Mohun Tagore. Het museum beschikt over een eigen restauratieatelier, een museumwinkel, bibliotheek en restaurant. Hun online museumcatalogussen (Carmentis en MIMO) vind je bij ​‘Online Catalogus’.",
-        "tags": ["Muziekinstrumenten", "Jazz", "Dans- en Draaiorgels"]
+        "tags": ["Muziekinstrumenten", "Jazz", "Dans- en Draaiorgels", "Geluidsdragers", "Bladmuziek"],
+        "link": "http://www.mim.be/nl"
       }
     },
     {
@@ -34,7 +35,8 @@
         "name": "Muziekmuseum Vleeshuis",
         "provincie": "Antwerpen",
         "description": "Het Museum Vleeshuis focust op de geschiedenis van het muzikale leven in Antwerpen. Zes eeuwen muziek in Antwerpen worden er in hun context geplaatst en geïllustreerd aan de hand van prenten, maquettes, schilderijen, documenten en muziekinstrumenten. Van middeleeuwse speellieden tot beiaardmuziek, opera, kerkmuziek, muziekdruk, instrumentenbouwers, danscultuur, jazz, Ferre Grignard of The Pebbles. De collectie van Museum Vleeshuis vind je (samen met alle andere collecties van de Antwerpse stedelijke musea) online. Kijk hiervoor op onze website bij ​‘Beleven / Online databanken en catalogi’ onder DAMS Antwerpen.",
-        "tags":["Muziekinstrumenten"]
+        "tags":["Muziekinstrumenten", "Topstukken"],
+        "link": "https://www.museumvleeshuis.be/nl"
       }
     },
     {
@@ -52,7 +54,8 @@
         "name": "AfricaMuseum",
         "provincie": "Brussel",
         "description": "De collectie van het AfricaMuseum bevat meer dan 8000 muziekinstrumenten. Het merendeel daarvan is afkomstig uit Midden-Afrika, meer bepaald uit de republiek Congo. De Dienst Etnomusicologie van het museum beheert een uniek etnomusicologisch klankarchief (ca. 3000 muziekopnames vanaf 1910). Een deel van de collectie van de kan je online beluisteren op DEKKMMA; de link vind je op onze website bij ​‘Zoeken en vinden / Audiovisueel materiaal vinden’.",
-        "tags": ["Muziekinstrumenten"]
+        "tags": ["Muziekinstrumenten"],
+        "link": "https://www.africamuseum.be/nl"
       }
     },
     {
@@ -70,7 +73,8 @@
         "name": "Den Ast – Streekmuseum",
         "provincie": "Vlaams-Brabant",
         "description": "Het museum, gevestigd in het erfgoedcentrum Den Ast, bevat meer dan 20.000 stukken, waaronder de collectie van en rond François Servais (1807 – 1866), cellist en componist. Zijn leven en werk wordt getoond met foto’s, bladmuziek en documenten. Ook het muziekleven in Halle komt aan bod via andere muzikale stadsgenoten en muziekverenigingen.",
-        "tags": ["Componisten"]
+        "tags": ["Componisten"],
+        "link": "https://www.halle.be/denast"
       }
     },
     {
@@ -88,7 +92,8 @@
         "name": "Museum aan de Stroom",
         "provincie": "Antwerpen",
         "description": "Het MAS heeft een voorraadkast met een half miljoen museumstukken. Een grote verzameling poesjenellen maakt deel uit van hun podiumerfgoed. De collectie van het MAS kan je online doorzoeken: kijk hiervoor op onze website bij ​‘Beleven / Online databanken en catalogi’ onder DAMS Antwerpen.",
-        "tags": ["Figurentheater"]
+        "tags": ["Figurentheater"],
+        "link": "https://www.mas.be/nl/content/welkom"
       }
     },
     {
@@ -106,7 +111,8 @@
         "name": "Huis van Alijn",
         "provincie": "Oost-Vlaanderen",
         "description": "Het Huis van Alijn is het museum van ​‘dagelijks leven’. Het museum geeft figurentheater, muziek en circus een prominente plaats in hun opstelling.",
-        "tags": ["Figurentheater"]
+        "tags": ["Figurentheater"],
+        "link": "https://huisvanalijn.be/nl"
       }
     },
     {
@@ -124,7 +130,8 @@
         "name": "KBR Museum",
         "provincie": "Brussel",
         "description": "De muziekcollectie van KBR bestaat uit handgeschreven en gedrukte partituren, briefwisseling van musici, gedrukte werken, concertprogramma’s en ‑affiches, foto’s van musici, geluidsdragers en objecten. Het KBR Museum toont heel wat muziekhandschriften en laat polyfone muziek uit de 15de en 16de eeuw weerklinken.",
-        "tags": []
+        "tags": ["Jazz", "Geluidsdragers", "Bladmuziek"],
+        "link": "http://kbr.be/nl/museum/"
       }
     },
     {
@@ -142,7 +149,8 @@
         "name": "Orgelcollectie Ghysels",
         "provincie": "Antwerpen",
         "description": "In 2007 kocht de Vlaamse Gemeenschap de unieke collectie mechanische muziekinstrumenten van Jef Ghysels. Deze collectie van 16 orgels biedt een mooi overzicht van de geschiedenis van het mechanische orgel van de laatste 125 jaar. Sinds 2010 is de collectie opgeslagen in een geklimatiseerd depot van Katoen Natie in Kallo. Het departement Cultuur, Jeugd en Media staat in voor het beheer ervan. In het najaar van 2013 nam toenmalig minister van cultuur, Joke Schauvliege, de beslissing om in te gaan op het voorstel van de stad Antwerpen om de orgelcollectie Ghysels een permanente bestemming te geven in Museum Vleeshuis | Klank van de Stad.",
-        "tags": ["Muziekinstrumenten", "Dans- en Draaiorgels"]
+        "tags": ["Muziekinstrumenten", "Dans- en Draaiorgels"],
+        "link": "https://www.museumvleeshuis.be/nl/pagina/de-collectie-ghysels"
       }
     },
     {
@@ -160,7 +168,8 @@
         "name": "Rock Werchter X",
         "provincie": "Vlaams-Brabant",
         "description": "Belevingscentrum rond de rijke geschiedenis (vanaf 1975) van het festival van Rock Werchter.",
-        "tags": ["Festival"]
+        "tags": ["Festival"],
+        "link": "https://www.rotselaar.be/belevingscentrum-rock-werchter-x-0"
       }
     },
     {
@@ -178,7 +187,8 @@
         "name":"Jazz Centrum Vlaanderen",
         "provincie": "Oost-Vlaanderen",
         "description": "Het Jazz Centrum Vlaanderen (Dendermonde) heeft als doel het conserveren, documenteren en promoten van traditionele jazz- en bluesmuziek. Er vinden geregeld lezingen en tijdelijke tentoonstellingen plaats en het archief is vrij consulteerbaar.",
-        "tags": ["Jazz"]
+        "tags": ["Jazz", "Geluidsdragers"],
+        "link": "https://www.jazzcentrumvlaanderen.be/"
       }
     },
     {
@@ -196,7 +206,8 @@
         "name": "Brabants Centrum voor Muziektradities (BCM)",
         "provincie": "Vlaams-Brabant",
         "description": "Het BCM in Kampenhout beheert de collectie van musicoloog en muzikant Hubert Boone: een indrukwekkende verzameling volksmuziekinstrumenten en een bibliotheek.",
-        "tags": ["Muziekinstrumenten"]
+        "tags": ["Muziekinstrumenten"],
+        "link": "https://www.kampenhout.be/bcm#"
       }
     },
     {
@@ -214,7 +225,8 @@
         "name": "Volksinstrumentenmuseum",
         "provincie": "Vlaams-Brabant",
         "description": "Volksinstrumenten, prenten en archiefstukken geven al hun geheimen prijs in het Volksinstrumentenmuseum van Gooik. Een verzameling die door Herman Dewit en Rosita Tahon (van volksmuziekgroep ​’t Kliekske) na jarenlang veldwerk werd samengesteld en dankzij het gemeentebestuur van Gooik een plaatsje heeft gevonden in gemeenschapscentrum De Cam, boven het volkscafé.",
-        "tags": ["Muziekinstrumenten"]
+        "tags": ["Muziekinstrumenten"],
+        "link": "https://muziekmozaiek.be/project/volksinstrumentenmuseum/"
       }
     },
     {
@@ -232,7 +244,8 @@
         "name": "Draaiorgelmuseum",
         "provincie": "Antwerpen",
         "description": "Het Draaiorgelmuseum (Westerlo-Voortkapel) toont een gevarieerde collectie mechanische orgels, van verschillende formaten. Pronkstukken zijn de instrumenten van de firma’s Decap en Mortier. De collectie is aangevuld met kleinere speeldozen, oude afspeelapparaten en accordeons.",
-        "tags": ["Muziekinstrumenten", "Dans- en Draaiorgels"]
+        "tags": ["Muziekinstrumenten", "Dans- en Draaiorgels"],
+        "link": "https://www.toerismewesterlo.be/wat-doen/bezienswaardigheden/musea/draaiorgelmuseum"
       }
     },
     {
@@ -250,7 +263,8 @@
         "name": "Orgelmuseum ‘De zoeten orgel’",
         "provincie": "West-Vlaanderen",
         "description": "Het Orgelmuseum ​‘De zoeten orgel’ in Leffinge heeft als basis de privécollectie van Eddy Godderis. De evolutie van het boekorgel tot de modernste orgeltechnieken worden er getoond. Tot de collectie behoren onder meer enkele kleine salonorgeltjes, een automatische piano en een Decap dansorgel uit 1974.",
-        "tags": ["Muziekinstrumenten", "Dans- en Draaiorgels"]
+        "tags": ["Muziekinstrumenten", "Dans- en Draaiorgels"],
+        "link": "https://www.middelkerke.be/nl/toerisme/zien-en-doen/cultuur/musea/orgelmuseum-de-zoeten-orgel"
       }
     },
     {
@@ -268,7 +282,8 @@
         "name": "Koninklijke beiaardschool - Rondleidingen",
         "provincie": "Antwerpen",
         "description": "De Koninklijke Beiaardschool (Mechelen) organiseert onder vakkundige begeleiding rondleidingen in de Beiaardschool en in de Sint-Romboutstoren.",
-        "tags": ["Muziekinstrumenten", "Beiaard"]
+        "tags": ["Muziekinstrumenten", "Beiaard"],
+        "link": "https://beiaardschool.mechelen.be/rondleidingen"
       }
     },
     {
@@ -286,7 +301,8 @@
         "name": "Beiaardtoren Hasselt",
         "provincie": "Limburg",
         "description": "168 trappen brengen je van op de begane grond naar een adembenemend uitzicht over Hasselt. En onderweg maak je kennis met de tijd: beieren op kleine klokjes, een oude beiaard bespelen en een luidklok luiden. Bovenaan, na een passage langs de 18de eeuwse speeltrommel en de beiaardierkamer, krijg je van op de klokkengalerij een adembenemend uitzicht over Hasselt.",
-        "tags": ["Muziekinstrumenten", "Beiaard"]
+        "tags": ["Muziekinstrumenten", "Beiaard"],
+        "link": "https://www.visithasselt.be/nl/het-stadsmus/ontdek-de-beiaardtoren"
       }
     },
     {
@@ -304,7 +320,8 @@
         "name": "Klokkentoren Sint-Michiel Roeselare",
         "provincie": "Antwerpen",
         "description": "Het gerenoveerde museum laat je via gemakkelijk te betreden verdiepingen kennismaken met een jarenlange klokkencultuur. Je kan er zelf een deuntje op de beiaard spelen en een klok luiden. Vanop de toren heb je een mooi zicht op de Kemmelberg, IJzertoren en Kluisberg. Gaandeweg hoor je de techniek van het samenspel van de 49 klokken.",
-        "tags": ["Muziekinstrumenten", "Beiaard"]
+        "tags": ["Muziekinstrumenten", "Beiaard"],
+        "link": "https://www.visitroeselare.be/nl/zien-en-doen/cultuur-en-erfgoed/musea-en-expos/klokkentorenmuseum"
       }
     },
     {
@@ -322,7 +339,8 @@
         "name": "Torenmuseum",
         "provincie": "Antwerpen",
         "description": "Het Torenmuseum (Mol) is ondergebracht in de eeuwenoude toren van de Sint-Pieter en Pauwelkerk. Het museum omvat vijf verdiepingen. Alle geëxposeerde voorwerpen en documenten hebben betrekking op de toren, de kerk en de beiaard. De historiek van de beiaard en het klokkengieten wordt getoond.",
-        "tags": ["Muziekinstrumenten", "Beiaard"]
+        "tags": ["Muziekinstrumenten", "Beiaard"],
+        "link": "https://www.gemeentemol.be/torenmuseum"
       }
     },
     {
@@ -340,7 +358,8 @@
         "name": "Brabants Radiomuseum",
         "provincie": "Vlaams-Brabant",
         "description": "Een privémuseum in Haasrode van oude radio’s met een collectie van 6000 exemplaren waarvan er ongeveer 2000 te bezichtigen zijn.",
-        "tags": ["Radio"]
+        "tags": ["Radio"],
+        "link": "http://brabantsradiomuseum.be/"
       }
     },
     {
@@ -356,9 +375,10 @@
       "properties": {
         "address": " Boerenkrijglaan 51c, 2250 Olen",
         "name": "Radiomuseum Olen",
-        "provincie": "Antwepren",
+        "provincie": "Antwerpen",
         "description": "Het Olens Radiomuseum toont de geschiedenis van de radio met tal van oude toestellen. Het museum biedt ook een herstellingsdienst voor oude radio’s aan.",
-        "tags": ["Radio"]
+        "tags": ["Radio"],
+        "link": "http://www.radiomuseum-olen.be/"
       }
     },
     {
@@ -369,14 +389,15 @@
           4.729096,
           51.075708
         ],
-        ":type": "Point"
+        "type": "Point"
       },
       "properties": {
         "address": "Kerkplein 24, 2220 Heist-op-den-Berg",
         "name": "Radiomuseum Heist-op-den-Berg",
         "provincie": "Antwerpen",
         "description": "Het Radiomuseum toont de geschiedenis van de radio in 7 vitrinekasten en er is ook een actief radioamateurstation.",
-        "tags": ["Radio"]
+        "tags": ["Radio"],
+        "link": "https://www.radiomuseumheist.be/"
       }
     },
     {
@@ -394,7 +415,8 @@
         "name": "SBR-Radiomuseum",
         "provincie": "West-Vlaanderen",
         "description": "Dit museum herbergt de meest complete verzameling vooroorlogse radio’s van het Belgische radiomerk: SBR, Société Belge Radio Electrique.",
-        "tags": ["Radio"]
+        "tags": ["Radio"],
+        "link": "http://www.eeuwfeestpaleisje.be/"
       }
     },
     {
@@ -412,7 +434,8 @@
         "name": "René De Clercqmuseum",
         "provincie": "West-Vlaanderen",
         "description": "Het René De Clercqmuseum belicht het leven en werk van deze dichter en leverancier van teksten voor tal van Vlaamse componisten.",
-        "tags": ["Componisten"]
+        "tags": ["Componisten"],
+        "link": "http://www.renedeclercq.be/"
       }
     },
     {
@@ -430,7 +453,8 @@
         "name": "Huis Mortelmans",
         "provincie": "Antwerpen",
         "description": "Dit privémuseum belicht leven en werk van de broers Mortelmans. Lodewijk Mortelmans (componist), Frans Mortelmans (plastisch kunstenaar) en ook de kunstkringen De Scalden en Lumière krijgen er aandacht.",
-        "tags": ["Componisten"]
+        "tags": ["Componisten"],
+        "link": "http://www.lodewijkmortelmans.be/"
       }
     },
     {
@@ -448,7 +472,8 @@
         "name": "Edgar Tinelmuseum",
         "provincie": "Oost-Vlaanderen",
         "description": "Het geboortehuis van Edgar Tinel in Sinaai werd ingericht als museum. Met tal van documenten en musicalia uit het leven van Tinel.",
-        "tags": ["Componisten"]
+        "tags": ["Componisten"],
+        "link": "http://www.edgartinel.be/"
       }
     },
     {
@@ -466,7 +491,8 @@
         "name": "Peter Benoit Huis",
         "provincie": "West-Vlaanderen",
         "description": "In Harelbeke, de geboorteplaats van Peter Benoit, vindt men het museum voor deze componist. Peter Benoit is een icoon van de Vlaamse muziek en heeft met zijn muziekpedagogisch programma decennialang het Vlaamse muziekonderwijs en ‑leven bepaald. Het museum evoceert het Vlaamse muziekleven uit de 19de eeuw en de rol van Benoit daarin. Het museum beheert een bibliotheek met ca. 4000 volksliederen uit de collectie van Paul Vandebuerie, de stichter van het museum.",
-        "tags": ["Componisten"]
+        "tags": ["Componisten"],
+        "link": "http://www.harelbeke.be/museum"
       }
     },
     {
@@ -484,7 +510,369 @@
         "name": "Brel Stichting",
         "provincie": "Brussel",
         "description": "De Brel Stichting biedt een permanente digitale tentoonstelling waar bezoekers de vele facetten van het talent van Jacques Brel kunnen ontdekken in de Brel Chanteur en Brel Auteur ruimtes.",
-        "tags": ["Componisten"]
+        "tags": ["Componisten"],
+        "link": "https://fondationbrel.be/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28",
+      "geometry": {
+        "coordinates": [
+          4.393365,
+          50.840869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Jubelpark 3, 1000 Brussel",
+        "name": "Het Koninklijk Museum van het Leger en de Krijgsgeschiedenis",
+        "provincie": "Brussel",
+        "description": "Het Koninklijk Museum van het Leger en de Krijgsgeschiedenis werd plechtig ingehuldigd in 1923. De collecties van het museum belichten op veelzijdige wijze de geschiedenis van de Belgische strijdkrachten. Muziek en muzikaal erfgoed heeft in die geschiedenis een vaste plaats, zowel in het onderzoek als in de collectie.",
+        "tags": ["Hafabra"],
+        "link": "https://klm-mra.be/nl"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29",
+      "geometry": {
+        "coordinates": [
+          4.35505,
+          50.84952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Leopoldstraat 23, 1000 Brussel",
+        "name": "Museumruimte De Munt - Rondleidingen",
+        "provincie": "Brussel",
+        "description": "De Munt (Brussel) heeft een kleine museumruimte met podiumtechnisch erfgoed, die wordt getoond bij educatieve rondleidingen in school- en bezoekerscontext.",
+        "tags": ["Podiumtechnieken"],
+        "link": "https://www.lamonnaiedemunt.be/nl/program/1639-rondleidingen"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30",
+      "geometry": {
+        "coordinates": [
+          4.477644,
+          51.135609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Fabriekstraat 38, 2547 Lint",
+        "name": "Museumruimte AED Group",
+        "provincie": "Antwerpen",
+        "description": "AED Group, die professioneel licht‑, geluids- en videoapparatuur verhuurt er verkoopt, heeft een museumruimte in Lint die de evolutie van licht- en geluidsapparatuur toont.",
+        "tags": ["Podiumtechnieken"]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31",
+      "geometry": {
+        "coordinates": [
+          3.223608,
+          51.210536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Vlamingstraat 29, 8000 Brugge",
+        "name": "Museumzolder Stadsschouwburg Brugge",
+        "provincie": "West-Vlaanderen",
+        "description": "De Stadsschouwburg van Brugge heeft een museumzolder ingericht waar belangrijke stukken van hun podiumtechnische collectie bewaard wordt. Deze is niet vrij toegankelijk en wordt best aangevraagd door een mailtje te sturen naar cultuurcentrum@​brugge.​be",
+        "tags": ["Scenografie", "Podiumtechnieken"],
+        "link": "https://faro.be/project/koninklijke-stadsschouwburg-brugge-uitbouw-van-een-werking-als-vlaamse-presentatieplek-0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32",
+      "geometry": {
+        "coordinates": [
+          5.576897,
+          50.647135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Rue Mère-Dieu, 4000 Luik",
+        "name": "Musée du Luminaire",
+        "provincie": "Luik",
+        "description": "Musée du Luminaire in Luik toont de evolutie van verlichtingsarmaturen die over de hele wereld zijn gebruikt, van de prehistorie tot de 21e eeuw. De focus ligt niet op theaterverlichting, maar op verschillende manieren waarop de mens licht heeft gebruikt.",
+        "tags": ["Podiumtechnieken"],
+        "link": "https://lesmuseesdeliege.be/mulum/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33",
+      "geometry": {
+        "coordinates": [
+          4.594653,
+          50.708436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Rue Provinciale 171, 1301 Waver",
+        "name": "Matos Museum",
+        "provincie": "Waals-Brabant",
+        "description": "Matos Museum in Bierges is gericht op oude datarapportagetechnologieën in de brede zin van het woord. De collectie bestrijkt verschillende gebieden, van fotografie tot informatica. Het omvat film- en geluidsopnames, maar ook telecommunicatie, rekenmachines en nog veel meer. Een zeer mooie collectie, met een thematische opstelling. De collectie is gecreëerd door Pascal Becker en is op afspraak te bezichtigen.",
+        "tags": ["Podiumtechnieken"],
+        "link": "https://matosmuseum.yolasite.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34",
+      "geometry": {
+        "coordinates": [
+          4.39815,
+          51.218403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Vrijdagmarkt 22, 2000 Antwerpen",
+        "name": " Museum Plantin-Moretus",
+        "provincie": "Antwerpen",
+        "description": "Het Museum Plantin-Moretus toont de geschiedenis van drukkersfamilie Plantin-Moretus en bewaart een mooie collectie liturgica, gedrukt in Antwerpen",
+        "tags": ["Bladmuziek", "Topstukken"],
+        "link": "https://museumplantinmoretus.be/nl/museum-plantin-moretus"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35",
+      "geometry": {
+        "coordinates": [
+          3.736685,
+          51.057542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Warandestraat 13, 9000 Gent",
+        "name": "MUPO, Museum voor Poppenspel",
+        "provincie": "Oost-Vlaanderen",
+        "description": "Het Museum voor Poppenspel in Gent bewaart de collectie van het vroegere poppenspelmuseum van Hanneke en Eildert Kuipers, en poppen uit privécollecties, zoasl van Luk De Bruyker, Paul Contryn (DE MAAN) en Koos Wieman. Ook Pierke heeft een plaats in het museum.",
+        "tags": ["Figurentheater"],
+        "link": "https://dewolk.cloud/museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36",
+      "geometry": {
+        "coordinates": [
+          4.35345,
+          50.84732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Grasmarkt 66, 1000 Brussel",
+        "name": "Museum van het Koninklijk Theater Toone",
+        "provincie": "Brussel",
+        "description": "Het Koninklijk Theater Toone is het enige traditionele Brusselse theater dat nog actief is. Het Theater heeft ook een werkplaats waar poppen worden vervaardigd, een bibliotheek en een poppenmuseum, waar de ​‘marionetten op rust’ hangen.",
+        "tags": ["Figurentheater"],
+        "link": "https://www.toone.be/nl/historique.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37",
+      "geometry": {
+        "coordinates": [
+          4.392561,
+          50.801911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Woudlaan 50, 1050 Elsene",
+        "name": "Internationaal Marionettenmuseum - Peruchet",
+        "provincie": "Brussel",
+        "description": "Le Musée International de la Marionnette du Peruchet in Elsene heeft een collectie van meer dan 4.000 poppen.",
+        "tags": ["Figurentheater"],
+        "link": "https://www.brusselsmuseums.be/nl/musea/internationaal-marionettenmuseum-peruchet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38",
+      "geometry": {
+        "coordinates": [
+          3.386803,
+          50.604588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Rue Saint-Martin 47, 7500 Doornik",
+        "name": "Le Musée des arts de la Marionnette",
+        "provincie": "Henegouwen",
+        "description": "Le Musée des arts de la Marionnette in Doornik heeft een collectie van ongeveer 3.000 poppen van allerlei vormen en origines. De belangrijkste doelen van het museum zijn om de diversiteit van poppenspel over de hele wereld te laten zien en tegelijkertijd de rijkdom van het nationale en regionale poppenspelerfgoed te benadrukken.",
+        "tags": ["Figurentheater"],
+        "link": "https://maisondelamarionnette.be/nl/home/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39",
+      "geometry": {
+        "coordinates": [
+          5.576339,
+          50.647264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Cour Des Mineurs, 4000 Luik",
+        "name": "Museum van het Waalse Leven",
+        "provincie": "Luik",
+        "description": "Sinds 1931 komen in het poppentheater van het Museum van het Waalse Leven de traditionele voorstellingen van Luikse marionetten opnieuw tot leven. Het museum heeft een collectie van bijna 600 marionetten, enkele decors en accessoires.",
+        "tags": ["Figurentheater"],
+        "link": "https://www.provincedeliege.be/nl/node/7963"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40",
+      "geometry": {
+        "coordinates": [
+          4.942743,
+          51.326995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Begijnhof 56, 2300 Turnhout",
+        "name": "Begijnhofmuseum",
+        "provincie": "Antwerpen",
+        "description": "Het Begijnhofmuseum bewaart de bijzondere bladmuziekcollectie van het Turnhoutse Sint-Catharinabegijnhof. De collectie omvat handschriften en muziekdrukken uit de 16de tot de 20ste eeuw en biedt een unieke blik op de muzikale praktijken van de begijnen.",
+        "tags": ["Begijnen", "Topstukken"],
+        "link": "https://www.begijnhofmuseum.be/nl"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41",
+      "geometry": {
+        "coordinates": [
+          3.225023,
+          51.20505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Dijver 17c, 8000 Brugge",
+        "name": "Gruuthusemuseum",
+        "provincie": "West-Vlaanderen",
+        "description": "Het Gruuthusemuseum bewaart een rijke collectie erfgoedobjecten uit Brugges verleden. Tot de collectie behoren een aantal Vlaamse topstukken, waaronder een unieke eenhandsfluit uit de 13e eeuw.",
+        "tags": ["Muziekinstrumenten", "Topstukken"],
+        "link": "https://www.museabrugge.be/bezoek/locaties/gruuthusemuseum"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42",
+      "geometry": {
+        "coordinates": [
+          5.4651,
+          50.78083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Museumkwartier 2, 3700 Tongeren-Borgloon",
+        "name": "Teseum",
+        "provincie": "Limburg",
+        "description": "Het Teseum in Tongeren bewaart heel wat religieuze schatten, waaronder de gregoriaanse handschriften van de Onze-Lieve-Vrouw-Geboortekerk (1387-1450), een Vlaams topstuk. Deze uitzonderlijk uitgebreide collectie behoort tot de belangrijkste bronnen voor de studie van middeleeuwse liturgie en muziek. Bovendien zijn ze ook in paleografisch opzicht uiterst waardevol aangezien ze kwadraat- en hoefnagelnotatie bevatten, terwijl in de meeste handschriften uit die periode slechts één type aanwezig is.",
+        "tags": ["Bladmuziek", "Topstukken"],
+        "link": "https://teseum.be/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43",
+      "geometry": {
+        "coordinates": [
+          4.482481,
+          51.031127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Frederik De Merodestraat 65, 2800 Mechelen",
+        "name": "Museum Hof van Busleyden",
+        "provincie": "Antwerpen",
+        "description": "Het Museum Hof van Busleyden bewaart een diverse collectie die het culturele, artistieke en intellectuele leven in Mechelen door de eeuwen heen belicht. Tot de topstukken behoort het Mechels Koorboek uit 1515-1516, een rijk verlucht muziekmanuscript uit de kunstcollectie van Margareta van Oostenrijk.",
+        "tags": ["Bladmuziek", "Topstukken"],
+        "link": "https://www.hofvanbusleyden.be/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44",
+      "geometry": {
+        "coordinates": [
+          4.394745,
+          51.208532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Leopold De Waelplaats 1, 2000 Antwerpen",
+        "name": "KMSKA",
+        "provincie": "Antwerpen",
+        "description": "Het KMSKA bewaart een toonaangevende kunstcollectie die de artistieke ontwikkeling in de Nederlanden van de late middeleeuwen tot vandaag weerspiegelt. Het blazoen van de rederijkerskamer 'De Voliere' is er deel van de permanente collectie, een uniek voorbeeld van een rederijkersblazoen met rebus, een samengaan van literatuur en schilderkunst. Daarnaast kan je er ook het schilderij Zegenende Christus met musicerende engelen te bewonderen. Hans Memling beelde er 10  musicerende engelen op af die elk een verschillend instrument bespelen. Aangezien die instrumenten zeer gedetailleerd zijn weergegeven, vormt het paneel een uitstekende bron voor kennis over het laat-middeleeuwse instrumentarium.",
+        "tags": ["Rederijkerskamer", "Topstukken"],
+        "link": "https://kmska.be/nl"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45",
+      "geometry": {
+        "coordinates": [
+          5.34224,
+          50.929784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Guido Gezellestraat 2, 3500 Hasselt",
+        "name": "Het Stadsmus",
+        "provincie": "Limburg",
+        "description": "Het Stadsmus bewaart een veelzijdige collectie die het culturele en historische erfgoed van Hasselt en omgeving ontsluit, daartoe behoort het Verzamelhandschrift van de rederijkerskamer De Roode Roos. Dit werk geeft een volledig beeld van het repertorium van de rederijkerskamer tussen 1565 en 1670, een zeldzaamheid. Bovendien is de Hasseltse bundel een belangrijke bron vooor het volkstalige Bijbels toneel in de Zuidelijke Nederlanden in de vroegmoderne tijd.",
+        "tags": ["Rederijkerskamer", "Topstukken"],
+        "link": "https://stadsmus.hasselt.be/nl"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46",
+      "geometry": {
+        "coordinates": [
+          4.70461,
+          50.87871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Leopold Vanderkelenstraat 28, 3000 Leuven",
+        "name": "M Leuven",
+        "provincie": "Vlaams-Brabant",
+        "description": "Museum M bewaart een diverse collectie kunst en erfgoed die de geschiedenis van Leuven en de Zuidelijke Nederlanden belicht. Tot de collectie behoort het Liber Boonen (Memorieboek of Antiquitates Lovanienses), een bijzonder handschrift, onder meer door de beschrijvingen en waterverftekeningen van de Leuvense ommegang van 1594. Het bevat met name een unieke afbeelding van een rederijkersopvoering over het oordeel van Salomon.",
+        "tags": ["Rederijkerskamer", "Topstukken"],
+        "link": "https://www.mleuven.be/"
       }
     }
   ]
