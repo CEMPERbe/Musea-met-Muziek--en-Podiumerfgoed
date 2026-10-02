@@ -54,9 +54,10 @@ fetch("musea.geojson")
 
         createTagFilter();
         createMarkers();
+        
         map.invalidateSize();
-            
         loadFiltersFromURL();
+
         applyFilters();
 
         // Automatically zoom so all museums are visible
@@ -84,7 +85,9 @@ function loadFiltersFromURL() {
     const tag = params.get("tag");
     if (tag) {
     tagFilter.value = tag;
-}}
+}
+}
+
 
 function createMarkers() {
 
@@ -110,11 +113,14 @@ function createMarkers() {
                 <strong>${escapeHTML(properties.name)}</strong>
                 <br>
                 ${escapeHTML(properties.description)}
+                <br>
+                <a href="${escapeHTML(properties.link)}">Bezoek de website</a>
                 <br><br>
-
                 ${(properties.tags || [])
                     .map(tag => `<span class="popup-tag"><b>${escapeHTML(tag)}</b></span>`)
                     .join(" ")}
+                <br><br>
+                
             </div>
         `);
 
